@@ -14,8 +14,8 @@ The project has pre- and post-processing, as well as a function that allows you 
 
 # Requirements
 
--Keras
--Pillow
--NumPy
--Matplotlib
--Seaborn
+-Keras  
+-Pillow  
+-NumPy  
+-Matplotlib  
+-Seaborn  
